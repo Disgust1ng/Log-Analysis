@@ -1,0 +1,6 @@
+Accepted password for user1
+Failed password for root
+Failed password for admin
+Accepted password for user2
+Failed password for guest
+Failed password for admin
